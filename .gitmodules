@@ -1,0 +1,6 @@
+[submodule "wp-content/themes/pancake-theme"]
+	path = wp-content/themes/pancake-theme
+	url = https://github.com/tonybloc/pancake-theme
+[submodule "wp-content/plugins/pancake-plugin"]
+	path = wp-content/plugins/pancake-plugin
+	url = https://github.com/tonybloc/pancake-plugin
